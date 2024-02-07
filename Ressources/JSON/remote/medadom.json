@@ -1,0 +1,387 @@
+{
+	"name":"medadom",
+	"path":" ek125_301_shape_effects/",
+	"info":{
+		"description":"",
+		"file":"medadom",
+		"date":"Wednesday 15th of November 2023 12:59:29 PM",
+		"title":"Page 1",
+		"author":"",
+		"keywords":"",
+		"generator":"Export Kit v1.3.figma"
+	},
+	"layers":[	
+
+		{
+			"type":"group",
+			"folderType":"layerset",
+			"name":"page_medadom_ek1", 
+			"id":"2:6", 
+			"x":0, 
+			"y":0, 
+			"width":595, 
+			"height":842, 
+			"layout": {
+				"align": "INHERIT",
+				"grow": 0,
+				"positioning": "AUTO",
+				"mode": "NONE",
+				"overflow": "NONE",
+				"spacing": 0,
+				"axis": {
+					"primary": {
+						"alignItems": "MIN",
+						"sizingMode": "AUTO"
+					},
+					"counter": {
+						"alignItems": "MIN",
+						"sizingMode": "FIXED"
+					}
+				},
+				"padding": {
+					"top": 0,
+					"left": 0,
+					"bottom": 0,
+					"right": 0
+				}
+			}, 
+			"overlay": {
+				"position": "CENTER",
+				"interaction": "NONE",
+				"background": {
+					"type": "NONE"
+				}
+			}, 
+			"constraints": {
+				"horizontal": "MIN",
+				"vertical": "MIN"
+			}, 
+			"layers":[
+						{ 
+							"type":"shape",  
+							"shapeType":"rectangle", 
+							"color":"0xFFFFFF", 
+							"name":"_bg__medadom_ek2", 
+							"id":"2:6", 
+							"x":0, 
+							"y":0, 
+							"width":595, 
+							"height":842 ,
+							"constraints": {
+					"horizontal": "MIN",
+					"vertical": "MIN"
+				} 
+						},
+						{ 
+							"type":"text", 
+							"font":"Inter",
+							"justification":"left",
+							"valign":"top",
+							"truncate":"disabled",
+							"color":"0x000000", 
+							"size":20, 
+							"name":"pre",
+							"id":"2:7", 
+							"x":85, 
+							"y":49, 
+							"width":372, 
+							"height":33 , 
+							"text":"Compte rendu de téléconsultation" ,
+							"constraints": {
+					"horizontal": "MIN",
+					"vertical": "MIN"
+				} 
+						},
+						{ 
+							"type":"image",  
+							"src":"skins/medadom.png", 
+							"name":"pre",
+							"id":"3:9", 
+							"x":440, 
+							"y":30, 
+							"width":144, 
+							"height":46 ,
+							"constraints": {
+					"horizontal": "MIN",
+					"vertical": "MIN"
+				} 
+						},
+						{ 
+							"type":"image",  
+							"src":"signatures/", 
+							"name":"sign",
+							"id":"3:9", 
+							"x":161, 
+							"y":706, 
+							"width":128, 
+							"height":128 ,
+							"constraints": {
+					"horizontal": "MIN",
+					"vertical": "MIN"
+				} 
+						},
+						{ 
+							"type":"text", 
+							"font":"Inter",
+							"justification":"left",
+							"valign":"top",
+							"truncate":"disabled",
+							"color":"0x000000", 
+							"size":14, 
+							"name":"date",
+							"id":"3:10", 
+							"x":393, 
+							"y":128, 
+							"width":94.4, 
+							"height":22.4 , 
+							"text":":date_absence:" ,
+							"constraints": {
+					"horizontal": "MIN",
+					"vertical": "MIN"
+				} 
+						},
+						{ 
+							"type":"text", 
+							"font":"Inter",
+							"justification":"left",
+							"valign":"top",
+							"truncate":"disabled",
+							"color":"0x000000", 
+							"size":14, 
+							"name":"nom_doc", 
+							"id":"3:11", 
+							"x":35, 
+							"y":106, 
+							"width":186.4, 
+							"height":26.4 , 
+							"text":"Dr. :nom_medecin:" ,
+							"constraints": {
+					"horizontal": "MIN",
+					"vertical": "MIN"
+				} 
+						},
+						{ 
+							"type":"text", 
+							"font":"Inter",
+							"justification":"left",
+							"valign":"top",
+							"truncate":"disabled",
+							"color":"0x000000", 
+							"size":14, 
+							"name":"pre",
+							"id":"3:12", 
+							"x":35, 
+							"y":142, 
+							"width":185.2, 
+							"height":15.2 , 
+							"text":"Médecin généraliste" ,
+							"constraints": {
+					"horizontal": "MIN",
+					"vertical": "MIN"
+				} 
+						},
+						{ 
+							"type":"text", 
+							"font":"Inter",
+							"justification":"left",
+							"valign":"top",
+							"truncate":"disabled",
+							"color":"0x000000", 
+							"size":14, 
+							"name":"nom_centre", 
+							"id":"3:13", 
+							"x":35, 
+							"y":182, 
+							"width":202.2, 
+							"height":21.2 , 
+							"text":":nom_centre:" ,
+							"constraints": {
+					"horizontal": "MIN",
+					"vertical": "MIN"
+				} 
+						},
+						{ 
+							"type":"text", 
+							"font":"Inter",
+							"justification":"left",
+							"valign":"top",
+							"truncate":"disabled",
+							"color":"0x000000", 
+							"size":14, 
+							"name":"adresse", 
+							"id":"3:14", 
+							"x":35, 
+							"y":200, 
+							"width":313.2, 
+							"height":25.2 , 
+							"text":":adresse_centre:" ,
+							"constraints": {
+					"horizontal": "MIN",
+					"vertical": "MIN"
+				} 
+						},
+						{ 
+							"type":"text", 
+							"font":"Inter",
+							"justification":"left",
+							"valign":"top",
+							"truncate":"disabled",
+							"color":"0x000000", 
+							"size":14, 
+							"name":"no_finess", 
+							"id":"3:15", 
+							"x":35, 
+							"y":216, 
+							"width":202.2, 
+							"height":25.2 , 
+							"text":"No FINESS : :finess:" ,
+							"constraints": {
+					"horizontal": "MIN",
+					"vertical": "MIN"
+				} 
+						},
+						{ 
+							"type":"text", 
+							"font":"Inter",
+							"justification":"left",
+							"valign":"top",
+							"truncate":"disabled",
+							"color":"0x000000", 
+							"size":14, 
+							"name":"telephone", 
+							"id":"3:16", 
+							"x":35, 
+							"y":232, 
+							"width":202.2, 
+							"height":25.2 , 
+							"text":":telephone_medecin:" ,
+							"constraints": {
+					"horizontal": "MIN",
+					"vertical": "MIN"
+				} 
+						},
+						{ 
+							"type":"text", 
+							"font":"Inter",
+							"justification":"left",
+							"valign":"top",
+							"truncate":"disabled",
+							"color":"0x000000", 
+							"size":14, 
+							"name":"pre",
+							"id":"3:17", 
+							"x":35, 
+							"y":301, 
+							"width":526.2, 
+							"height":33.2 , 
+							"text":"J'ai été sollicité(e) ce jour, dans le cadre du service MEDADOM, par le patient :" ,
+							"constraints": {
+					"horizontal": "MIN",
+					"vertical": "MIN"
+				} 
+						},
+						{ 
+							"type":"text", 
+							"font":"Inter",
+							"justification":"left",
+							"valign":"top",
+							"truncate":"disabled",
+							"color":"0x000000", 
+							"size":14, 
+							"name":"nom_patient", 
+							"id":"3:18", 
+							"x":130, 
+							"y":335, 
+							"width":125.2, 
+							"height":18.2 , 
+							"text":":prenom: :nom: né(e) le :date_naissance:" ,
+							"constraints": {
+					"horizontal": "MIN",
+					"vertical": "MIN"
+				} 
+						},
+						{ 
+							"type":"text", 
+							"font":"Inter",
+							"justification":"left",
+							"valign":"top",
+							"truncate":"disabled",
+							"color":"0x000000", 
+							"size":14, 
+							"name":"pre",
+							"id":"3:19", 
+							"x":16, 
+							"y":372, 
+							"width":564.2, 
+							"height":33.2 , 
+							"text":"L'interrogatoire lors de la téléconsultation, en tenant compte de l'absence de possibilité d'examen clinique, permet de noter :" ,
+							"constraints": {
+					"horizontal": "MIN",
+					"vertical": "MIN"
+				} 
+						},
+						{ 
+							"type":"text", 
+							"font":"Inter",
+							"justification":"left",
+							"valign":"top",
+							"truncate":"disabled",
+							"color":"0x000000", 
+							"size":14, 
+							"name":"pre",
+							"id":"3:20", 
+							"x":35, 
+							"y":658, 
+							"width":486.2, 
+							"height":35.2 , 
+							"text":"Il est conseillé de solliciter un avis complmentaire pour reévaluation si le problme devait persister. En cas d'aggravation ressentie, consultez un service d'urgence." ,
+							"constraints": {
+					"horizontal": "MIN",
+					"vertical": "MIN"
+				} 
+						},
+						{ 
+							"type":"text", 
+							"font":"Inter",
+							"justification":"left",
+							"valign":"top",
+							"truncate":"disabled",
+							"color":"0x000000", 
+							"size":14, 
+							"name":"motif", 
+							"id":"3:22", 
+							"x":53, 
+							"y":458, 
+							"width":302.1, 
+							"height":125.1 , 
+							"text":"Motif : :motif:" ,
+							"constraints": {
+					"horizontal": "MIN",
+					"vertical": "MIN"
+				} 
+						},
+						{ 
+							"type":"text", 
+							"font":"Inter",
+							"justification":"left",
+							"valign":"top",
+							"truncate":"disabled",
+							"color":"0x000000", 
+							"size":14, 
+							"name":"nom_doc_sign", 
+							"id":"3:21", 
+							"x":35, 
+							"y":718, 
+							"width":121.2, 
+							"height":16.2 , 
+							"text":":nom_medecin:" ,
+							"constraints": {
+					"horizontal": "MIN",
+					"vertical": "MIN"
+				} 
+						}
+
+			]
+		}
+	]
+}

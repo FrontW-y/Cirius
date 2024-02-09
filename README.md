@@ -74,7 +74,7 @@ Code Structure:
   pip3 install -r ./requirement.txt
 ```
 
-Modifiez le jeton du bot par le vôtre dans Ressources/TOKEN/config.py et installez votre base de données (non fournie). Ensuite lancez main.py
+Modifiez le jeton du bot par le vôtre dans `Ressources/TOKEN/config.py` et installez votre base de données (non fournie). Ensuite lancez main.py
 
 Change bot token by yours in `Ressources/TOKEN/config.py` and install your database (not provided). Then start main.py
     

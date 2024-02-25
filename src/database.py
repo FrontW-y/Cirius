@@ -1,7 +1,7 @@
 import mysql.connector as sq
 import datetime
-from generer_certificat import create_certif
-from Medecin import Medecin
+from .generer_certificat import create_certif
+from .Medecin import Medecin
 
 
 class Database:

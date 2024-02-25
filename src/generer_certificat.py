@@ -1,6 +1,6 @@
-from jsonReader import JsonLecture
-from PdfClass import PDFCreation
-from Medecin import Medecin
+from .jsonReader import JsonLecture
+from .PdfClass import PDFCreation
+from .Medecin import Medecin
 import os
 import random as rd
 
